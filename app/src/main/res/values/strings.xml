@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SonyKitakamiPanelInfo</string>
+    <string name="SysfsWarn">Failed to read file /sys/devices/mdss_dsi_panel/panel_id. Make sure it is world readable.</string>
+    <string name="PanManMsg">The Panel manufacturer of\nyour kitakami device is:\n\n</string>
+    <string name="Copyright">Copyright © 2016 Tom G..\nThis Application is licensed under Apache-2.0.\nYou may obtain a copy of the license at:\nhttp://www.apache.org/licenses/LICENSE-2.0\nhttps://github.com/Applications-Development/SonyKitakamiPanelInfolInfo</string>
+</resources>
